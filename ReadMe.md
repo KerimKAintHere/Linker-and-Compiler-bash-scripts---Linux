@@ -14,7 +14,7 @@ Currently the only available compilers and linkers are for
 :
 - X86 NASM, Linux (You can change the formatting to either 32 or 64 bit to your liking)
 - C (no C++ yet, sorry mates)
-And there is also a script for object-dumping C code if you're interested in how it works
+And there is also a script for disassembling C executables if you want to use it
 ## prerequisites:
 - Make sure you have objdump, which is pre-installed in most Linux distros
 - NASM a.k.a the Netwide Assembler
